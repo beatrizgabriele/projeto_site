@@ -1,3 +1,66 @@
-body{
-    background-color: rgb(236, 230, 230);
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Palanquin:wght@100;200;300;400;500;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');body{
+
+
+background-color: rgb(224, 224, 224);
 }
+
+.fonte1{
+   color: aqua;
+   font-family: "Jost", sans-serif;
+}
+
+.fonte44{
+text-align: center;
+ }
+
+ .fonte55{
+    text-align: center;
+  }
+    
+
+.fonte2{
+    color: rgb(89, 0, 255)98, 0, 255);
+    font-family: "Jost", sans-serif;
+ }
+
+ .fonte3{
+    color: rgb(48, 88, 68);
+    font-family: "Jost", sans-serif;
+    font-size: 22px;
+ }
+
+ .fonte4{
+    color: rgb(48, 88, 68);
+    font-family: "Jost", sans-serif;
+    font-size: 22px;
+ }
+
+ .fonte5{
+    color: rgb(48, 88, 68);
+    font-family: "Jost", sans-serif;
+    font-size: 22px;
+ }
+ .imagem1{
+    width: 350px;
+ }
+
+ .imagem2{
+    width: 380px;
+ }
+
+ .imagem3{
+    width: 340px;
+ }
+
+ .imagem4{
+    width: 355px;
+ }
+
+ .imagem5{
+    width: 400px;
+ }
+
+ .imagem6{
+    width: 400px;
+ }
